@@ -25,6 +25,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+
 # NuGet packages
 packages/
 *.nupkg
